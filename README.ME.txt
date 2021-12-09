@@ -1,0 +1,1 @@
+Jogo da forca desenvolvido como projeto de aprendizado na linguagem Python, utilizando conceitos de nivel basico de programaçao.
