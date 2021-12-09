@@ -1,8 +1,3 @@
-# LISTAS EM PYTHON
-# FATIAMENTO
-# APPEND, INSERT, POP, DEL, CLEAR, EXTEND, =
-# MIN, MAX
-# RANGE
 
 from time import sleep
 import os
